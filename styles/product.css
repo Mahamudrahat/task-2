@@ -1,0 +1,53 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.text-product {
+    color: white;
+    padding:30px;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.product-items {
+    display: flex;
+    margin:30px;
+    justify-content: space-around;
+
+}
+
+.image-size {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.product-item{
+    display: flex;
+    border-radius: 5px;
+    width: 400px;
+    background-color: #0cc0e3;
+    justify-content: space-between;
+}
+.product-item-watch {
+  
+    background-color: #0cc0e3;
+   
+}
+
+.product-item-shoe {
+   
+    background-color: #0e6ffd;
+
+    
+}
+
+.product-item-bag {
+   
+    background-color: #198754;
+    
+    
+}
